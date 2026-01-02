@@ -1,0 +1,8453 @@
+{
+  "TUTORIAL": {
+    "indx": 2
+  },
+  "1A11": {
+    "indx": 4,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F304",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F304",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A12": {
+    "indx": 6,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    }
+  },
+  "1A13": {
+    "indx": 8,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A14": {
+    "indx": 10,
+    "Monday": {
+      "09:40 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    }
+  },
+  "1A15": {
+    "indx": 12,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    }
+  },
+  "1A16": {
+    "indx": 14,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-3",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-3",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    }
+  },
+  "1A17": {
+    "indx": 16,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    }
+  },
+  "1A18": {
+    "indx": 18,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LT103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "LT103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LT103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    }
+  },
+  "1A21": {
+    "indx": 20,
+    "Monday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A22": {
+    "indx": 22,
+    "Monday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "11:20 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A23": {
+    "indx": 24,
+    "Monday": {
+      "08:50 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A24": {
+    "indx": 26,
+    "Monday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "11:20 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    }
+  },
+  "1A25": {
+    "indx": 28,
+    "Monday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A26": {
+    "indx": 30,
+    "Monday": {
+      "08:00 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "11:20 AM": [
+        "UES101",
+        "E307",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "E307",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A27": {
+    "indx": 32,
+    "Monday": {
+      "08:00 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A28": {
+    "indx": 34,
+    "Monday": {
+      "08:00 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UES101",
+        "F314",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F314",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    }
+  },
+  "1A31": {
+    "indx": 36,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A32": {
+    "indx": 38,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A33": {
+    "indx": 40,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A34": {
+    "indx": 42,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A35": {
+    "indx": 44,
+    "Monday": {
+      "09:40 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A36": {
+    "indx": 46,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A37": {
+    "indx": 48,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A38": {
+    "indx": 50,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP101",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "LP101",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP101",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "LP101",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "LP101",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A41": {
+    "indx": 52,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A42": {
+    "indx": 54,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "11:20 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A43": {
+    "indx": 56,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "11:20 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A44": {
+    "indx": 58,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "09:40 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "11:20 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A45": {
+    "indx": 60,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "01:00 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "11:20 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A51": {
+    "indx": 62,
+    "Monday": {
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:50 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    }
+  },
+  "1A52": {
+    "indx": 64,
+    "Monday": {
+      "08:00 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "10:30 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    }
+  },
+  "1A53": {
+    "indx": 66,
+    "Monday": {
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "F211",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "F306",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    }
+  },
+  "1A54": {
+    "indx": 68,
+    "Monday": {
+      "08:00 AM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    }
+  },
+  "1A55": {
+    "indx": 70,
+    "Monday": {
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "10:30 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A61": {
+    "indx": 72,
+    "Monday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A62": {
+    "indx": 74,
+    "Monday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A63": {
+    "indx": 76,
+    "Monday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A64": {
+    "indx": 78,
+    "Monday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:50 AM": [
+        "UMA023",
+        "F312",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A65": {
+    "indx": 80,
+    "Monday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "11:20 AM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A71": {
+    "indx": 82,
+    "Monday": {
+      "01:50 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Saturday": {
+      "01:50 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A72": {
+    "indx": 84,
+    "Monday": {
+      "01:50 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "01:00 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Saturday": {
+      "01:50 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A73": {
+    "indx": 86,
+    "Monday": {
+      "01:50 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F310",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "01:00 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Saturday": {
+      "01:50 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    }
+  },
+  "1A74": {
+    "indx": 88,
+    "Monday": {
+      "01:50 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-2",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "01:00 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Saturday": {
+      "01:50 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    }
+  },
+  "1A75": {
+    "indx": 90,
+    "Monday": {
+      "01:50 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CAD-1",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UMA023",
+        "F309",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "F309",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F313",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP102",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UMA023",
+        "LP102",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP102",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "01:00 PM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ]
+    },
+    "Saturday": {
+      "01:50 PM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ]
+    }
+  },
+  "1A81": {
+    "indx": 92,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "02:40 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A82": {
+    "indx": 94,
+    "Monday": {
+      "09:40 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "02:40 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "G317",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A83": {
+    "indx": 96,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    }
+  },
+  "1A84": {
+    "indx": 98,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "02:40 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "12:10 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A85": {
+    "indx": 100,
+    "Monday": {
+      "11:20 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Tuesday": {
+      "08:00 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "02:40 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "08:00 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "LP102",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP102",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "09:40 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "12:10 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    }
+  },
+  "1A91": {
+    "indx": 102,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "09:40 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A92": {
+    "indx": 104,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "B223",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "F307",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UMA023",
+        "F307",
+        "Linear Algebra",
+        "Tutorial"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A93": {
+    "indx": 106,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F311",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "G325",
+        "Applied Physics",
+        "Practical"
+      ]
+    }
+  },
+  "1A94": {
+    "indx": 108,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "C309",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "08:50 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ]
+    },
+    "Wednesday": {
+      "01:00 PM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G312",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "09:40 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ]
+    }
+  },
+  "1A95": {
+    "indx": 110,
+    "Monday": {
+      "09:40 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "10:30 AM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ],
+      "02:40 PM": [
+        "UHU003",
+        "B109",
+        "Proffessional Communication",
+        "Practical"
+      ]
+    },
+    "Tuesday": {
+      "10:30 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "11:20 AM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "12:10 PM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UES101",
+        "CED CAD",
+        "Engineering Drawing",
+        "Practical"
+      ]
+    },
+    "Wednesday": {
+      "08:00 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "08:50 AM": [
+        "UES101",
+        "F312",
+        "Engineering Drawing",
+        "Tutorial"
+      ],
+      "09:40 AM": [
+        "UMA023",
+        "F308",
+        "Linear Algebra",
+        "Tutorial"
+      ],
+      "10:30 AM": [
+        "UPH013",
+        "F308",
+        "Applied Physics",
+        "Tutorial"
+      ],
+      "01:00 PM": [
+        "UES101",
+        "LP103",
+        "Engineering Drawing",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ]
+    },
+    "Thursday": {
+      "10:30 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "11:20 AM": [
+        "UES102",
+        "W/SHOP",
+        "Manufacturing Processes",
+        "Practical"
+      ],
+      "01:00 PM": [
+        "UHU003",
+        "LP103",
+        "Proffessional Communication",
+        "Lecture"
+      ],
+      "01:50 PM": [
+        "UPH013",
+        "LP103",
+        "Applied Physics",
+        "Lecture"
+      ],
+      "02:40 PM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ],
+      "03:30 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ],
+      "04:20 PM": [
+        "UPH013",
+        "G310",
+        "Applied Physics",
+        "Practical"
+      ]
+    },
+    "Friday": {
+      "08:00 AM": [
+        "UES102",
+        "LP103",
+        "Manufacturing Processes",
+        "Lecture"
+      ],
+      "08:50 AM": [
+        "UMA023",
+        "LP103",
+        "Linear Algebra",
+        "Lecture"
+      ]
+    }
+  }
+}
